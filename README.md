@@ -63,13 +63,13 @@ To run this project locally, follow these steps:
     ```bash
     npm install
     ```
-4. Install dependencies using npm:
+4. Install dependencies using npm in client directory:
     ```bash
     cd client
     npm install
     cd ..
     ```
-5. Start the server:
+5. Start the client and server:
     ```bash
     npm run dev
     ```
