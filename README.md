@@ -63,11 +63,17 @@ To run this project locally, follow these steps:
     ```bash
     npm install
     ```
-4. Start the server:
+4. Install dependencies using npm:
+    ```bash
+    cd client
+    npm install
+    cd ..
+    ```
+5. Start the server:
     ```bash
     npm run dev
     ```
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+6. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 
 
