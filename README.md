@@ -7,6 +7,8 @@ Mobile Store MERN Stack project is a fully functional and user-friendly online s
 You can visit the live version of the Mobile Store MERN Stack project https://mobilestore-mern.onrender.com/
 
 ## Key Features
+![image](https://github.com/Mukulmalse/MobiMarketPlace-A-MERN-powered-E-Commerce/assets/139046353/4a30e187-eb87-48ad-9c56-b214157c4728)
+
 
 ### User Authentication:
 - Users can register and create accounts securely.
